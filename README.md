@@ -3,6 +3,7 @@
 Using light fluctiation data from NASA's Kepler telescope four different models were trained to differentiate exoplanets from non-exoplanets. running demo.py you can compare the four different classification rates.
 
 # Dependencies
+run python3 -m pip install -r requirements.txt
 To run the program you need to install the following with pip: 
 tensorflow,
 keras,
