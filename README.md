@@ -4,7 +4,10 @@ Using light fluctiation data from NASA's Kepler telescope four different models 
 
 # Dependencies
 run python3 -m pip install -r requirements.txt
+
+
 To run the program you need to install the following with pip: 
+
 tensorflow,
 keras,
 sklearn, 
