@@ -6,7 +6,7 @@ This is a relatively difficult task due to the unbalanced data set, there are ve
 
 # requirements
 
-rMake sure you are using python3.6 (highest version of python tensorflow works with). Create a virtual environment by running:
+Make sure you are using python3.6 (highest version of python tensorflow works with). Create a virtual environment by running:
 
 ```
 python3.6 -m venv env
