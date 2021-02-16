@@ -3,6 +3,8 @@ from exoplanet_nn import NeuralNetwork
 from exoplanet_tree import DecisionTree
 from tensorflow_network import KerasModel
 import os
+import warnings
+warnings.simplefilter('ignore')
 
 if __name__ == '__main__':
     knn = NearestNeighbor()

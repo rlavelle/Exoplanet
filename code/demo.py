@@ -4,6 +4,8 @@ from exoplanet_tree import DecisionTree
 from exoplanet_self_knn import KNearestNeighbor
 from data_preprocessing import DataPreProcessing
 import matplotlib.pyplot as plt
+import warnings
+warnings.simplefilter('ignore')
 
 if __name__ == "__main__":
     dp = DataPreProcessing(training_planets=5087)
